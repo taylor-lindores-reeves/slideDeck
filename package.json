@@ -1,0 +1,8 @@
+{
+  "name": "",
+  "version": "",
+  "devDependencies": {
+    "vivus": "^0.4.3"
+  },
+  "dependencies": {}
+}
